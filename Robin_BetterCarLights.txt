@@ -1,0 +1,132 @@
+Mono Adding Started.
+
+Headlight Monos Added.
+
+Cars List Length: 50
+Vehicle Monos Added.
+
+Car Spawned.
+Car04Full(Clone)(Clone)
+Interior Light Found.
+Reverse Light Found.
+Reverse Light Found.
+Brake Light Found.
+Brake Light Found.
+
+
+
+Headlight Spawned.
+LowBeam Found.
+HighBeam Found.
+Name: HeadLight(Clone)
+
+
+
+Headlight Spawned.
+LowBeam Found.
+HighBeam Found.
+Name: HeadLight(Clone)
+
+
+
+Headlight Spawned.
+LowBeam Found.
+HighBeam Found.
+Name: HeadLight(Clone)
+
+
+
+Car Spawned.
+Car03k(Clone)
+Interior Light Found.
+Reverse Light Found.
+Reverse Light Found.
+Brake Light Found.
+Brake Light Found.
+
+
+
+Car Spawned.
+Bike01(Clone)
+Reverse Light Found.
+Brake Light Found.
+
+
+
+Car Spawned.
+Bike01(Clone)
+Reverse Light Found.
+Brake Light Found.
+
+
+
+Headlight Spawned.
+LowBeam Found.
+HighBeam Found.
+Name: Car06HeadLight(Clone)
+
+
+
+Car Spawned.
+Car02k(Clone)
+Interior Light Found.
+Reverse Light Found.
+Reverse Light Found.
+Brake Light Found.
+Brake Light Found.
+
+
+
+Car Spawned.
+Car05(Clone)
+Interior Light Found.
+Reverse Light Found.
+Reverse Light Found.
+Brake Light Found.
+Brake Light Found.
+
+
+
+Car Spawned.
+Bike01(Clone)
+Reverse Light Found.
+Brake Light Found.
+
+
+
+Car Spawned.
+Car07(Clone)
+Interior Light Found.
+Interior Light Found.
+Brake Light Found.
+Reverse Light Found.
+Reverse Light Found.
+Brake Light Found.
+
+
+
+Car Spawned.
+Car05Full(Clone)(Clone)
+Interior Light Found.
+Reverse Light Found.
+Reverse Light Found.
+Brake Light Found.
+Brake Light Found.
+
+
+
+Car Spawned.
+Bus01Full(Clone)(Clone)
+
+
+
+Car Spawned.
+Car02Full(Clone)(Clone)
+Interior Light Found.
+Reverse Light Found.
+Reverse Light Found.
+Brake Light Found.
+Brake Light Found.
+
+
+
